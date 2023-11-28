@@ -1,0 +1,1 @@
+I learned basics of responsive web designing.
